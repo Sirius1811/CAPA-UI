@@ -1,4 +1,3 @@
-# drive_helper.py
 import os
 import pickle
 import tempfile
